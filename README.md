@@ -83,5 +83,5 @@ to discuss what you would like to change.
 
 ### License
 
-- [MIT]()
+- [MIT](https://github.com/sahoo-subha/Personal-Voice-Assistant/blob/main/LICENSE)
 
