@@ -3,24 +3,44 @@
 ### Table of contents
 
 - Introduction
+- Key Features
 - Requirements
 - Python Packages
 - Run the Application
+- step by step process
 - Contributing
 - Current Maintainer
 - License
 
 
 ### Introduction
-In this Project,I build a Search Engine with python.
+I built a voice assistant with Python. This voice assistant will help you automate your daily tasks by your voice commands.
 
+
+### Key Features
+- 
 
 ### Requirements
 - `Python`
+- `https://pypi.org/`
+- `https://developers.google.com/calendar/api/guides/overview`
 
 
 ### Python Packages
-- ``
+- `datetime`
+- `os`
+- `time`
+- `pyttsx3`
+- `pytz`
+- `speech_recognition`
+- `subprocess`
+- `wikipedia`
+- `webbrowser`
+- `smtplib`
+- `pyjokes`
+- `sys`
+- `cv2`
+- `random`
 
 To download these packages use `pip install <package name>`
 
@@ -28,7 +48,7 @@ To download these packages use `pip install <package name>`
 ### Run the Application
 - Open `Terminal`
 - `cd` into `Your Project Directory`
-- Run command `python manage.py runserver`
+- Run command ` python .\main_voice_assistant.py`
 
 
 ### Contributing
