@@ -3,11 +3,10 @@
 ### Table of contents
 
 - Introduction
-- Key Features
+- Key Features 
 - Requirements
 - Python Packages
 - Run the Application
-- step by step process
 - Contributing
 - Current Maintainer
 - License
@@ -18,7 +17,28 @@ I built a voice assistant with Python. This voice assistant will help you automa
 
 
 ### Key Features
-- 
+- Basic Conversation
+- Play Music
+- Know current time
+- Tell you random jokes
+- Open Notepad
+- Open Code Editor
+- Open Command Prompt
+- Open Camera
+- Open facebook
+- Open Linkedin
+- Open Instagram
+- Open Youtube
+- Open Stack Overflow
+- Playing the song of the user's choice on YouTube
+- Open Wikipedia on a topic of the user's choice
+- Search on a topic of the user's choice on Google
+- Get to know your current IP address
+- Send a Whatsapp message to an indivisual
+- To send a message to a group on Whatsapp
+- Send Emails based on the user's preferences
+- Tell your future plans/events added to Google Calender
+- Create a note 
 
 ### Requirements
 - `Python`
@@ -49,6 +69,7 @@ To download these packages use `pip install <package name>`
 - Open `Terminal`
 - `cd` into `Your Project Directory`
 - Run command ` python .\main_voice_assistant.py`
+- Start the application by saying `Hey Robot`
 
 
 ### Contributing
