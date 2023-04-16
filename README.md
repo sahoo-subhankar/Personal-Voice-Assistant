@@ -48,20 +48,17 @@ I built a voice assistant with Python. This voice assistant will help you automa
 
 
 ### Python Packages
-- `datetime`
-- `os`
-- `time`
+- `python`
+- `SpeechRecognition`
+- `gTTS`
+- `pyaudio`
+- `playsound`
+- `opencv-python`
 - `pyttsx3`
 - `pytz`
-- `speech_recognition`
-- `subprocess`
 - `wikipedia`
-- `webbrowser`
-- `smtplib`
 - `pyjokes`
-- `sys`
-- `cv2`
-- `random`
+- `google-api-python-client google-auth-httplib2 google-auth-oauthlib`
 
 To download these packages use `pip install <package name>`
 
