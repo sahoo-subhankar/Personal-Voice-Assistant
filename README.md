@@ -1,17 +1,4 @@
 # Personal-Voice-Assistant
-[In this project, I will add new features]
- 
-### Table of contents
-
-- Introduction
-- Key Features 
-- Requirements
-- Python Packages
-- Run the Application
-- Contributing
-- Current Maintainer
-- License
-
 
 ### Introduction
 I built a voice assistant with Python. This voice assistant will help you automate your daily tasks by your voice commands.
