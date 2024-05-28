@@ -1,7 +1,7 @@
 # Personal-Voice-Assistant
 
 ### Introduction
-I built a voice assistant with Python. This voice assistant will help you automate your daily tasks by your voice commands.
+A voice assistant with Python. This voice assistant will help you automate your daily tasks by your voice commands.
 
 
 ### Key Features
